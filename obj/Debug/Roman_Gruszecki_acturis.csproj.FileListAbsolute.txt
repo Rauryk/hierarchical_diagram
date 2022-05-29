@@ -1,0 +1,16 @@
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.exe.config
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.exe
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.pdb
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.AssemblyReference.cache
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.SuggestedBindingRedirects.cache
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.CoreCompileInputs.cache
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.exe
+C:\MozeCosBysNapisal\TestCSharp\Roman_Gruszecki\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.pdb
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.exe.config
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.exe
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\bin\Debug\Roman_Gruszecki_acturis.pdb
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.AssemblyReference.cache
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.SuggestedBindingRedirects.cache
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.csproj.CoreCompileInputs.cache
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.exe
+C:\MozeCosBysNapisal\Roman_Gruszecki_acturis\obj\Debug\Roman_Gruszecki_acturis.pdb
